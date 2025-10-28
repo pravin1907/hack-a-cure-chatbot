@@ -1,10 +1,11 @@
 streamlit
-langchain
-langchain-openai
 openai
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+numpy
 tiktoken
 python-dotenv
-PyPDF2
-faiss-cpu
-
 
