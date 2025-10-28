@@ -4,4 +4,7 @@ langchain-openai
 openai
 tiktoken
 python-dotenv
+PyPDF2
+faiss-cpu
+
 
